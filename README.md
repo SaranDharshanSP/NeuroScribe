@@ -7,7 +7,13 @@ The preprocessed EEG data are fed into a deep learning model trained to classify
 
 This project advances assistive technologies by introducing a practical and intuitive BCI-controlled robotic handwriting system. Future enhancements may include adaptive learning algorithms for improved prediction accuracy, personalized calibration for tailored performance, and exploration of alternative input modalities to extend the system's applicability beyond handwriting. Further improvements, such as sophisticated pattern recognition algorithms and dynamic time warping for signal alignment, are also proposed to enhance the system's accuracy, speed, and user-friendliness.
 
+
+## FLOW CHART
 ![BAND PASS FILTERING It allows a specific frequency range to pass through while attenuating other frequencies](https://github.com/SaranDharshanSP/NueroScribe/assets/121683877/a488eb9a-e91f-4d52-8bf8-55e5333a320a)
+
+
+## Mechanism
+![mechanism](https://github.com/SaranDharshanSP/NueroScribe/assets/121683877/63bb3bf8-1901-4c7a-8757-3db6d6adcc6d)
 
 ## PPT LINK:
 https://www.canva.com/design/DAGGM0DRfx4/tpNbFjW0kyFda2_dTax_Sw/edit?utm_content=DAGGM0DRfx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
