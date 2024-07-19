@@ -9,7 +9,7 @@ This project advances assistive technologies by introducing a practical and intu
 
 
 ## FLOW CHART
-![BAND PASS FILTERING It allows a specific frequency range to pass through while attenuating other frequencies](https://github.com/SaranDharshanSP/NueroScribe/assets/121683877/a488eb9a-e91f-4d52-8bf8-55e5333a320a)
+![Work Flow](https://github.com/user-attachments/assets/14804a49-4fb9-4a75-b373-08e8467633c7)
 
 
 ## Mechanism
