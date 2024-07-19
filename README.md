@@ -14,6 +14,3 @@ This project advances assistive technologies by introducing a practical and intu
 
 ## Mechanism
 ![mechanism](https://github.com/SaranDharshanSP/NueroScribe/assets/121683877/63bb3bf8-1901-4c7a-8757-3db6d6adcc6d)
-
-## PPT LINK:
-https://www.canva.com/design/DAGGM0DRfx4/tpNbFjW0kyFda2_dTax_Sw/edit?utm_content=DAGGM0DRfx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
