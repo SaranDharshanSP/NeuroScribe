@@ -10,7 +10,3 @@ This project advances assistive technologies by introducing a practical and intu
 
 ## FLOW CHART
 ![Work Flow](https://github.com/user-attachments/assets/14804a49-4fb9-4a75-b373-08e8467633c7)
-
-
-## Mechanism
-![mechanism](https://github.com/SaranDharshanSP/NueroScribe/assets/121683877/63bb3bf8-1901-4c7a-8757-3db6d6adcc6d)
