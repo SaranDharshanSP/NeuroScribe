@@ -1,4 +1,4 @@
-# NueroScribe
+# NeuroScribe
 Translating Thoughts into Written Words with Robotic Finesse and Vocal Feedback
 
 This project presents the development of a handwriting assistance system designed for individuals with limited motor function, leveraging Brain-Computer Interface (BCI) technology, advanced machine learning algorithms, and Internet of Things (IoT) devices. The system utilizes the OpenBCI Ultracortex Mark IV EEG headset to capture brain signals corresponding to the user's intent to write specific letters. Signal preprocessing involves bandpass filtering to confine signals within the 0-60 Hz range, followed by Variational Mode Decomposition (VMD) to decompose signals, reduce noise, and eliminate irrelevant frequencies.
