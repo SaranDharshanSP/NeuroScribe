@@ -10,3 +10,26 @@ This project advances assistive technologies by introducing a practical and intu
 
 ## FLOW CHART
 ![Work Flow](https://github.com/user-attachments/assets/14804a49-4fb9-4a75-b373-08e8467633c7)
+
+
+## EEG Streamlit Application
+
+We’ve introduced a **Streamlit-based EEG application** to make the NeuroScribe system more interactive and accessible.
+This app simplifies interaction with the model, offering user-friendly interface for EEG data visualization, preprocessing, and classification of alphabets.
+
+### Demo 
+
+Watch the demo of the EEG Streamlit app here:
+[EEG App Demo](https://www.dropbox.com/scl/fi/imfs9211l7yj7fph7riaf/Appdemo.mp4?rlkey=ctvnrjt7e55r0x5s5fgukr50i&st=lm0ukn5o&dl=0)
+
+### Steps to Run the App Locally
+```bash
+  git clone https://github.com/SaranDharshanSP/NeuroScribe.git
+  cd NeuroScribe
+  cd AlphabetClassification
+  pip install streamlit
+  pip install numpy
+  pip install pandas
+  pip install scikit-learn
+  pip install matplotlib
+  streamlit run app.py
